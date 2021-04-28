@@ -1,5 +1,5 @@
 # smart-tv
-A DIY smart TV project
+A DIY smart TV project written with Python & Flask. Able to play YouTube videos through VLC media player. Controlled through sending http POST requests to the web server that will run on the computer which is connected to the TV.
 
 - Initialize a python virtual environment and install the following packages:
 ```
